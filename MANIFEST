@@ -1,0 +1,12 @@
+MANIFEST
+README
+Todo
+Changes
+Makefile.PL
+lib/String/Sprintf.pm
+t/001_load.t
+t/002_constructor.t
+t/003_basic.t
+t/004_synopsis.t
+t/005_results.t
+META.yml                                 Module meta-data (added by MakeMaker)
