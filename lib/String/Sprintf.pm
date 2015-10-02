@@ -3,7 +3,7 @@ use strict;
 use Carp;
 
 use vars qw($VERSION);
-$VERSION     = '0.01';
+$VERSION     = '0.02';
 
 
 sub formatter {  # constructor
@@ -47,6 +47,8 @@ sub sprintf {
 
 __END__
 
+=encoding utf8
+
 =head1 NAME
 
 String::Sprintf - Custom overloading of sprintf
@@ -89,10 +91,10 @@ You can make a minimal formatter that behaves just like sprintf (and that is act
 Because of the explicit use of these formatters, you can, of course, use several different formatters at the same time, even in the same expression. That is why it's better that it doesn't actually I<really> overload the built-in sprintf. Plus, it was far easier to implement this way.
 
 The syntax used is OO Perl, though I don't really consider this as an object oriented module. For example, I foresee no reason for subclassing, and all formatters behave differently. That's what they're for.
-  
+
 =head1 METHODS
 
-=head2 class method: 
+=head2 class method:
 
 =head3 formatter( 'A' => \&formatter_A, 'B' => \&formatter_B, ... )
 
@@ -159,7 +161,8 @@ You tell me...?
 
 =head1 SUPPORT
 
-Poke me at Perlmonks (username "bart" - I'm often hanging around in the Chatterbox), or mail me.
+Currently maintained by brian d foy C<< <bdfoy@cpan.org> > and hosted
+on GitHub (https://github.com/briandfoy/string-sprintf).
 
 =head1 AUTHOR
 
