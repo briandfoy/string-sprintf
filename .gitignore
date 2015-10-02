@@ -1,5 +1,6 @@
 .releaserc
 *.tar.gz
+*.tar
 *.gz
 Makefile
 MYMETA.json
