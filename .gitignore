@@ -1,3 +1,6 @@
 .releaserc
 *.tar.gz
 *.gz
+Makefile
+MYMETA.json
+MYMETA.yml
