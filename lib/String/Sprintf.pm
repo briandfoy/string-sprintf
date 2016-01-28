@@ -177,7 +177,7 @@ on GitHub (https://github.com/briandfoy/string-sprintf).
 
 L<https://github.com/briandfoy/string-sprintf>
 
-=head1 COPYRIGHT
+=head1 LICENSE AND COPYRIGHT
 
 (c) Bart Lateur 2006.
 
