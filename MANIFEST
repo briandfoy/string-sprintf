@@ -10,4 +10,5 @@ t/002_constructor.t
 t/003_basic.t
 t/004_synopsis.t
 t/005_results.t
+t/pod.t
 Todo
