@@ -173,6 +173,10 @@ on GitHub (https://github.com/briandfoy/string-sprintf).
     L<http://perlmonks.org/?node=bart>
     L<http://users.pandora.be/bartl/>
 
+=head1 REPOSITORY
+
+L<https://github.com/briandfoy/string-sprintf>
+
 =head1 COPYRIGHT
 
 (c) Bart Lateur 2006.

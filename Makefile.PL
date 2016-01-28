@@ -11,4 +11,15 @@ WriteMakefile(
     PREREQ_PM    => {
                      'Test::Simple' => 0.44,
                     },
+    (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
+        'meta-spec' => { version => 2 },
+        resources => {
+            repository => {
+                type => 'git',
+                url  => 'https://github.com/briandfoy/string-sprintf.git',
+                web  => 'https://github.com/briandfoy/string-sprintf',
+            },
+        }})
+     : ()
+    ),
 );
