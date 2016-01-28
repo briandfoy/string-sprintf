@@ -161,7 +161,7 @@ You tell me...?
 
 =head1 SUPPORT
 
-Currently maintained by brian d foy C<< <bdfoy@cpan.org> > and hosted
+Currently maintained by brian d foy C<< <bdfoy@cpan.org> >> and hosted
 on GitHub (https://github.com/briandfoy/string-sprintf).
 
 =head1 AUTHOR
@@ -173,7 +173,11 @@ on GitHub (https://github.com/briandfoy/string-sprintf).
     L<http://perlmonks.org/?node=bart>
     L<http://users.pandora.be/bartl/>
 
-=head1 COPYRIGHT
+=head1 REPOSITORY
+
+L<https://github.com/briandfoy/string-sprintf>
+
+=head1 LICENSE AND COPYRIGHT
 
 (c) Bart Lateur 2006.
 
