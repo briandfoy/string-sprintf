@@ -161,7 +161,7 @@ You tell me...?
 
 =head1 SUPPORT
 
-Currently maintained by brian d foy C<< <bdfoy@cpan.org> > and hosted
+Currently maintained by brian d foy C<< <bdfoy@cpan.org> >> and hosted
 on GitHub (https://github.com/briandfoy/string-sprintf).
 
 =head1 AUTHOR
