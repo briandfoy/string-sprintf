@@ -154,7 +154,14 @@ Nothing. What did you expect?
 
 =head1 TODO
 
-Support for overloading strftime is planned for the next release (soon), and proper support for position indexed values, like C<"%2$03X">, is next (also soon).
+=over 4
+
+=item * overload strftime too
+
+=item * proper support for position indexed values, like C<"%2$03X">
+
+=back
+
 
 =head1 SEE ALSO
 
