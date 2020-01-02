@@ -91,7 +91,7 @@ You can make a minimal formatter that behaves just like C<sprintf> (and that is 
 
 Because of the explicit use of these formatters, you can, of course, use several different formatters at the same time, even in the same expression. That is why it's better that it doesn't actually I<really> overload the built-in C<sprintf>. Plus, it was far easier to implement this way.
 
-The syntax used is OO Perl, though I don't really consider this as an object oriented module. For example, I foresee no reason for subclassing, and all formatters behave differently. That's what they're for.
+The syntax used is OO Perl, though I don't really consider this as an object-oriented module. For example, I foresee no reason for subclassing, and all formatters behave differently. That's what they're for.
 
 =head1 METHODS
 
