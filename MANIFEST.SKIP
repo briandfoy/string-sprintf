@@ -67,3 +67,6 @@
 \.zip$
 
 \.releaserc
+\bMANIFEST\s\d
+\bChanges\s\d
+
