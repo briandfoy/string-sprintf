@@ -8,7 +8,8 @@ MYMETA.yml
 blib
 pm_to_blib
 *.bak
-*.icould
+*.icloud
+
 MANIFEST*[123456789]
 Changes*[123456789]
 
