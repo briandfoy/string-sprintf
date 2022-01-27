@@ -79,7 +79,7 @@ my %WriteMakefile = (
 				web    => "$github/issues",
 				},
 			homepage => $github,
-			doi => '',
+#			doi => '',
 			authors => [
 				{
 				name     => 'Bart Lateur',
