@@ -1,4 +1,5 @@
 Changes
+CITATIONS.cff
 examples/strftime.pl
 lib/String/Sprintf.pm
 Makefile.PL
@@ -11,4 +12,5 @@ t/003_basic.t
 t/004_synopsis.t
 t/005_results.t
 t/pod.t
+t/999_citations.t
 Todo
