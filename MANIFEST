@@ -2,6 +2,7 @@ Changes
 CITATIONS.cff
 examples/strftime.pl
 lib/String/Sprintf.pm
+LICENSE
 Makefile.PL
 MANIFEST
 MANIFEST.SKIP
