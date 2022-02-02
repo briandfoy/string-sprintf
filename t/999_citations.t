@@ -2,7 +2,7 @@ use strict;
 
 use Test::More;
 
-my $file = 'CITATIONS.cff';
+my $file = 'CITATION.cff';
 
 SKIP: {
 	my $rc = eval { require YAML; 1 };
