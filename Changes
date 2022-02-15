@@ -1,7 +1,7 @@
 Revision history for Perl module String::Sprintf
 
 1.002_01 2022-02-15T17:42:28Z
-	* Try fixing #29: test race condition
+	* Try fixing old YAML version failing tests
 
 1.002 2022-02-02T11:03:33Z
 	* Add LICENSE file. It's the perl5 license.
