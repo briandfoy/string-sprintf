@@ -191,7 +191,7 @@ L<https://github.com/briandfoy/string-sprintf>
 
 =head1 LICENSE AND COPYRIGHT
 
-(c) Bart Lateur 2006.
+Copyright © Bart Lateur 2006.
 
 This program is free software; you can redistribute
 it and/or modify it under the same terms as Perl itself.
